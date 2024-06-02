@@ -1,5 +1,5 @@
 # A Hybrid CNN GRU Model Framework for Epilepsy Detection
-Based on our paper "**A Hybrid CNN GRU Model Framework for Epilepsy Detection from EEG Datasets**" will be published in Brain Informatics, Springer.
+Based on our paper "**A Hybrid CNN GRU Model Framework for Epilepsy Detection from EEG Datasets**" will be published in **Brain Informatics, Springer**.
 ## Requirements
 To install the required dependencies run the following in command prompt: `pip install -r requirements.txt`
 ## Directory Structure
