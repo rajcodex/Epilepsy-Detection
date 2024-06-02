@@ -129,6 +129,7 @@ First clone our github repo using this command : `git clone https://github.com/r
 `python main.py -d <dataset_name> -p <no_classes>`
 ### Arguments Details
 `--d`: It denotes which dataset will be used for training. For UCI dataset put `uci.csv` and for Mendeley Dataset put `mendeley.csv` as argument.
+
 `--p`: It denotes the no. of classes will be taken for classification tasks. For, 2-class classification put 2 and for 5-class classification put 5 as argument.
 
 **Example**: For 2-class classification on UCI dataset, we write the command as follows:
