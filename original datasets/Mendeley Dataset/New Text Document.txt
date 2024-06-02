@@ -1,0 +1,5 @@
+Setb:normal
+Setd:preictal
+Sete:seizure
+
+change the url of dataset folders to "<local path>\Dataset\set<b,d or e>
